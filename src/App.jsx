@@ -22,10 +22,7 @@ function App() {
   }
   const myFavoriteFood = {
     title: "Comidas favoritas",
-    info1: "Ceviche",
-    info2: "Rocoto relleno",
-    info3: "Arroz con pato",
-    info4: "Lomo saltado",
+    info1: "Ceviche"
   }
   const myStackTech = {
     title: "Mi Stack Tech",
